@@ -27,7 +27,10 @@ int main() {
   - [Canvas Class Page](https://canvas.alaska.edu/courses/31497)
 
 ## References, Readings, Videos
-  - 
+  - Book 1:
+  - Book 2:
+  - Book 3:
+  - [Why does the C++ standard ship every three years?](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/)
 
 ## Big Notes
   - Office: 539 Duckering, Glenn G. Chappell
@@ -36,6 +39,14 @@ int main() {
 ## Class Assignments
 | ## | Description | Repo | Deliverable 1 | Deliverable 1 |
 | --- | --- | --- | --- | --- |
+| Assignment 1 | Quick Video Presentation | | | |
+| Assignment 2 | | | | |
+| Assignment 3 | | | | |
+| Assignment 4 | | | | |
+| Assignment 5 | | | | |
+| Assignment 6 | | | | |
+| Assignment 1 | | | | |
+| Assignment 1 | | | | |
 
 ## Class Note Directory
 |            Week-## | Description | Quick Link | Other Notes | HW-## | Lab-## |
