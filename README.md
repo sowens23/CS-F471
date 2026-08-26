@@ -27,9 +27,9 @@ int main() {
   - [Canvas Class Page](https://canvas.alaska.edu/courses/31497)
 
 ## References, Readings, Videos
-  - Book 1:
+  - Book 1: Dont Make Me Think
   - Book 2:
-  - Book 3:
+  - Book 3: Rocket Surgery Made Easy 
   - [Why does the C++ standard ship every three years?](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/)
 
 ## Big Notes
