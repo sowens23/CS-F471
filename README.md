@@ -27,9 +27,9 @@ int main() {
   - [Canvas Class Page](https://canvas.alaska.edu/courses/31497)
 
 ## References, Readings, Videos
-  - Book 1: Dont Make Me Think
-  - Book 2:
-  - Book 3: Rocket Surgery Made Easy 
+  - Book 1: Dont Make Me Think - Steve Krug
+  - Book 2: Agile Project Management with KanBan - Eric Brechner
+  - Book 3: Rocket Surgery Made Easy - Steve Krug 
   - [Why does the C++ standard ship every three years?](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/)
 
 ## Big Notes
@@ -39,19 +39,19 @@ int main() {
 ## Class Assignments
 | ## | Description | Repo | Deliverable 1 | Deliverable 1 |
 | --- | --- | --- | --- | --- |
-| Assignment 1 | Quick Video Presentation | | | |
-| Assignment 2 | | | | |
-| Assignment 3 | | | | |
-| Assignment 4 | | | | |
-| Assignment 5 | | | | |
-| Assignment 6 | | | | |
-| Assignment 1 | | | | |
-| Assignment 1 | | | | |
+| 01 | Quick Video Presentation | | | |
+| 02 | | | | |
+| 03 | | | | |
+| 04 | | | | |
+| 05 | | | | |
+| 06 | | | | |
+| 07 | | | | |
+| 08 | | | | |
 
 ## Class Note Directory
-|            Week-## | Description | Quick Link | Other Notes | HW-## | Lab-## |
+|            Week-## | Description | Quick Links | Other Notes | HW-## | Lab-## |
 | ------------------ | --- | --- | --- | --- | --- |
-| [Week-01](#Week-01) | <ol><li> Course Introduction </li><li> Communicating as a Software Professional </li></ol> | --- | --- | --- | --- |
+| [Week-01](#Week-01) | <ol><li> Course Introduction </li><li> Communicating as a Software Professional </li></ol> | [Why does C++ ship every three years](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/) | --- | [Assignment 1](https://www.cs.uaf.edu/~chappell/class/2026_fall/cs471/docs/y-assn01d.html) | --- |
 | [Week-02](#Week-02) | <ol><li> Overview of Software Development </li><li> Processes Requirements & User Stories </li></ol> | --- | --- | --- | --- |
 | [Week-03](#Week-03) | <ol><li> Requirements & User Stories Kanban </li></ol> | --- | --- | --- | --- |
 | [Week-04](#Week-04) | <ol><li> Kanban </li><li> Software Architecture </li></ol> | --- | --- | --- | --- |
@@ -72,11 +72,10 @@ int main() {
 
 ## Week-01
 [08/24/26 - 08/28/26](#TOP)  
-  | Date | Topic | Notes | Additional |
-  | --- | --- | --- | --- |
-  | Aug 24 | Course introduction Slides [Google Slides] | | |
-  | Aug 26 | Communicating as a software professional | | |
-  | Aug 28 | Communicating as a software professional (cont’d) | | |
+  - We release software when features are complete, or on a certain date.
+  - An *MVP* Minimal Viable Product is the least you can do to produce a deliverable package.
+  - [Why does C++ ship every three years](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/), is because you can't force a features development track. It's easier to release what's ready, routinely.
+  - 
 
 ## Week-02
 [08/31/26 - 09/06/26](#TOP)  
