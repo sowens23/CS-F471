@@ -75,10 +75,16 @@ int main() {
   - We release software when features are complete, or on a certain date.
   - An *MVP* Minimal Viable Product is the least you can do to produce a deliverable package.
   - [Why does C++ ship every three years](https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/), is because you can't force a features development track. It's easier to release what's ready, routinely.
-  - 
 
 ## Week-02
-[08/31/26 - 09/06/26](#TOP)  
+[08/31/26 - 09/06/26](#TOP)
+  - Between the spectrum of *Plan-Driven* and *Agile* we have many forms of software development processes.
+    1. Waterfall
+    2. Boehms
+    3. Scrum
+    4. KanBan
+    - Are just a few.
+  - 
 
 ## Week-03
 [09/07/26 - 09/13/26](#TOP)  
