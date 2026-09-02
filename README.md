@@ -84,7 +84,9 @@ int main() {
     3. Scrum
     4. KanBan
     - Are just a few.
-  - 
+  - Scrum Master is the evolution of Extreme Programming.
+    - Scrum involves daily team meeings, tracking project backlogs, recording team decisions, and communicating with stakeholders and management outside of the engineering firm.
+  - Not in class Friday
 
 ## Week-03
 [09/07/26 - 09/13/26](#TOP)  
